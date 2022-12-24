@@ -1,7 +1,7 @@
 ### Oii! Sou CHRYSTYAN ALLYSON 👋😎
 
 - 🔭 Hoje trabalho como Analista de Sistemas
-- 🌱 Estudando JAVASCRIPT | NODE
+- 🌱 Estudando JAVA
 - 📫 Contate-me no email: chrystyan.allyson@gmail.com
 
 <div align="center">
